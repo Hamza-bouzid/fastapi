@@ -5,8 +5,11 @@ from app import schemas
 def test_get_all_posts(authorized_client, test_posts):
     res = authorized_client.get("/posts/")
 
+    ciao = "ciao"
+
     def validate(post):
         return schemas.PostOut(**post)
+
     posts_map = map(validate, res.json())
     posts_list = list(posts_map)
 
