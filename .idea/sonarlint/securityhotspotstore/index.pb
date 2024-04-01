@@ -105,12 +105,8 @@ C
 tests/test_votes.py,4/a/4a821ba9f677c6783aa271a5ccaf45e4210be99a
 Å
 Q.idea/sonarlint/securityhotspotstore/5/2/52e0e1d50e6be79af31366131cc48554697725b4,3/3/3338dbaa332836b9d8fad52e4c5b521185aad45a
-w
-G.idea/sonarlint/issuestore/7/2/72b327f5394b8139760c04911045aeecd0bd2e5f,2/c/2c11c25620d090488f6e65982ded40d08af9ff77
 Å
 Q.idea/sonarlint/securityhotspotstore/6/0/60a964aea4a6760d2f0fe80a7725ed9d569edd6c,b/7/b708aad62f0501c0cda351be171cb414dbef3c1f
-Å
-Q.idea/sonarlint/securityhotspotstore/7/2/72b327f5394b8139760c04911045aeecd0bd2e5f,1/5/1510da319f0558f4fa450849c56f0512e30d2c19
 w
 G.idea/sonarlint/issuestore/7/6/76944dfe74e520e70194061e6ef0184cbb5c6a78,3/4/348fb6940be1957c79ac9bd023c1b59c0d9ec66b
 w
@@ -135,12 +131,8 @@ Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf302663
 Q.idea/sonarlint/securityhotspotstore/f/b/fb299c2a6ace6e72c84fa24ca32905a9575c6747,c/c/cccac10c3fa5e3ce87536081849013ead0dd8384
 Å
 Q.idea/sonarlint/securityhotspotstore/0/5/05a721ebe3ba0754116825ed1359ff1785f4bbac,5/b/5b66636b1cb9d3e29ca9640b310d100f1feced91
-w
-G.idea/sonarlint/issuestore/b/f/bf56cccda2cc742301e3bcfd8204c4e7506242fb,3/9/39e6b1c799275e6787746a77f06e6eda159b69fc
 Å
 Q.idea/sonarlint/securityhotspotstore/1/9/19359a61ae2446b51b549167b014da2fcf265768,e/2/e2212f35b63a1f1addcdc9ab55a8fc987a93a069
-Å
-Q.idea/sonarlint/securityhotspotstore/b/f/bf56cccda2cc742301e3bcfd8204c4e7506242fb,e/e/eed34328f089530e34f8271488b49ff65a3482c5
 w
 G.idea/sonarlint/issuestore/d/8/d84513684d01938b65661cf0358065b11872e9bf,3/9/39d41e2677edf383cff4288275c50ad61a8cbf34
 w
@@ -184,8 +176,6 @@ Q.idea/sonarlint/securityhotspotstore/d/2/d2b046108d1c1b522dbbf815ff6124f053f98a
 Å
 Q.idea/sonarlint/securityhotspotstore/3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a,4/e/4ead0a9bb92d8636c4ad5a0ef56838d8b7bd33d6
 Å
-Q.idea/sonarlint/securityhotspotstore/e/7/e789888e5d041bfefc4fb8ba0d62324b9ced7d4a,3/d/3d50f159fb17ceac6ab45b0256cf2521f4e966ef
-Å
 Q.idea/sonarlint/securityhotspotstore/2/7/279b1cb6b7885281d13306833817d1ce34c69ede,c/6/c66bba0420326090411393be1beee1514de20877
 5
 nginx,5/8/58a3ed6f2965252c6ac4957d95f7a3bdfca47101
@@ -201,3 +191,7 @@ w
 G.idea/sonarlint/issuestore/c/b/cb7461413ce2481b9b3941ee38d326fc8f47620e,0/e/0edc8c5f3bcf26812878deed14fe74e7f73edd3b
 Å
 Q.idea/sonarlint/securityhotspotstore/6/b/6b5a07a517e9a3845a279675e888c81b77b9d712,3/9/391ed4d9ef942c1c7ee7f895cc5196a84c92aef1
+B
+docker-compose.yml,3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a
+R
+".github/workflows/build-deploy.yml,7/2/72b327f5394b8139760c04911045aeecd0bd2e5f
